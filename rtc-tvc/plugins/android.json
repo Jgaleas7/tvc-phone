@@ -1,0 +1,53 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "com.rtc.tvc"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.rtc.tvc"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.rtc.tvc"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "com.rtc.tvc"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.rtc.tvc"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "com.rtc.tvc"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "com.rtc.tvc"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.rtc.tvc"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.rtc.tvc"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.rtc.tvc"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.rtc.tvc"
+        },
+        "cordova-plugin-crosswalk-webview": {
+            "XWALK_VERSION": "23+",
+            "XWALK_LITEVERSION": "xwalk_core_library_canary:17+",
+            "XWALK_COMMANDLINE": "--disable-pull-to-refresh-effect",
+            "XWALK_MODE": "embedded",
+            "XWALK_MULTIPLEAPK": "true",
+            "PACKAGE_NAME": "com.rtc.tvc"
+        }
+    },
+    "dependent_plugins": {}
+}
